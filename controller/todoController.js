@@ -20,9 +20,6 @@ export const fetchTodos = async (req, res) => {
   }
 };
 
-
-
-
 // Update todo
 export const updateTodo = async (req, res) => {
   try {
